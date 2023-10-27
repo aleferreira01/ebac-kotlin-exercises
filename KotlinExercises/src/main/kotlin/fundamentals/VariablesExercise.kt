@@ -1,4 +1,4 @@
-package Fundamentals
+package fundamentals
 
 fun main() {
     var mutableValue: Int = 6
